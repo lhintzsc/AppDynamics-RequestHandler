@@ -1,0 +1,8 @@
+[Unit]
+Description=My New Service
+
+[Service]
+ExecStart=~/src/start.sh
+
+[Install]
+WantedBy=default.target
