@@ -2,7 +2,7 @@
 Description=My New Service
 
 [Service]
-ExecStart=~/src/start.sh
+ExecStart=/root/src/start.sh
 
 [Install]
 WantedBy=default.target
