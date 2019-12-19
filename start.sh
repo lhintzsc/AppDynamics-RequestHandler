@@ -1,3 +1,3 @@
 #!/bin/sh
 
-node myfirst.js
+node /root/src/myfirst.js
